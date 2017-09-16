@@ -27,7 +27,7 @@ if !exists("TidyMd(...)")
         endif
 
         if !executable(tidymd_cmd)
-            echoerr tidymd_cmd . "executable not found. Please install it first."
+            echoerr tidymd_cmd . " executable not found. Please install it first."
             return
         endif
 
