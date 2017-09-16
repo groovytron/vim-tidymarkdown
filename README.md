@@ -1,6 +1,6 @@
 # Required
 
-* [tidy-markdown](https://www.npmjs.com/package/tidy-markdown)
+- [tidy-markdown](https://www.npmjs.com/package/tidy-markdown)
 
 `tidy-markdown` can be installed with `npm`:
 
