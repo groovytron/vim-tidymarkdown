@@ -1,12 +1,12 @@
 "=========================================================
 " File:        tidymarkdown.vim
-" Author:      Julien M'Poy <julien.mpoy[at]googlemail.com>
+" Author:      Julien M'Poy <julien.mpoy@googlemail.com>
 " Last Change: Sat Sep 16 23:27:00 BST 2017
 " Version:     0.0.1
 " WebPage:     https://github.com/groovytron/vim-tidymarkdown
 " License:     MIT Licence
 "==========================================================
-" see also README.rst
+" see also README.md
 
 " Only do this when not done yet for this buffer
 if exists('g:loaded_tidymarkdown')
