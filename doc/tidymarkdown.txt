@@ -1,0 +1,44 @@
+*tidymarkdown.txt*
+
+Author: Julien M'Poy  (julien.mpoy@gmail.com)
+For Vim version 7 and above
+Last change: 2017 September 17
+
+1. Overview         |tidy-markdown-overview|
+2. Required         |tidy-markdown-required|
+3. Installation     |tidy-markdown-installation|
+4. Usage            |tidy-markdown-usage|
+5. License          |tidy-markdown-license|
+
+==============================================================================
+1. Overview                                                *tidy-markdown-overview*
+
+vim-tidymarkdown is a Vim plugin that applies tidy-markdown to your current file.
+tidy-markdown automatically formats Markdown code.
+
+==============================================================================
+2. Required                                                *tidy-markdown-required*
+
+tidy-markdown
+>
+    https://www.npmjs.com/package/tidy-markdown
+<
+
+==============================================================================
+3. Installation                                        *tidy-markdown-installation*
+
+Simply put the contents of this repository in your ~/.vim/bundle directory.
+
+==============================================================================
+4. Usage                                                      *tidy-markdown-usage*
+
+call function
+
+>
+ :TidyMd
+<
+
+==============================================================================
+5. license                                                  *tidy-markdown-license*
+
+MIT license
