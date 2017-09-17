@@ -1,6 +1,8 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 # Required
 
-- [tidy-markdown](https://www.npmjs.com/package/tidy-markdown)
+- [tidy-markdown](https://github.com/slang800/tidy-markdown)
 
 `tidy-markdown` can be installed with `npm`:
 
